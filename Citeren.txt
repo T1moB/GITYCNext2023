@@ -1,0 +1,24 @@
+CITEREN
+
+
+{    curly bracket  squickly bracket accolade
+;    punt komma semicolon
+<    kleiner dan    winkelhaak tag-openen
+~    squickly line   tilde 
+[    square brackets blokhaken
+(     parenthesis
+_    underscore
+/    forwardslash slash
+\    backslash
+#    hashtag  hekje
+`    backtick      "hoi ik ben "+ voornaam + " en ben "+ leeftijd+ "oud"
+                    `hoi ik ben ${voornaam} en ben ${leeftijd} oud`
+                    <a href="nos.nl">klik 'hier'</a>
+'    aanhalingsteken single quote
+"    dubbele aanhalingsteken
+-    dash
+|    pipe
+?!
+^   dakje accent circonflex
+%   procent teken
+*  sterretje asterisk

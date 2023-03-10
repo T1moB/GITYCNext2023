@@ -1,0 +1,70 @@
+
+ALGEMEEN
+
+Visual Studio Code
+git
+github.com - account
+
+DATABASE
+xampp 
+
+JAVA
+Eclipse for java developers
+
+Python
+
+LowCode
+OutSystems
+Mendix
+Blue Prism
+PowerApps
+
+
+portal.azure.com
+proefaccount@infocodefounders.onmicrosoft.com
+w@lkom123!
+
+
+- https://www.the-academy.nl/learn?course=az-900&student=5141  - voor j.j.dejong1998@gmail.com
+
+- https://www.the-academy.nl/learn?course=az-900&student=5142  - voor t.bos.1998@gmail.com
+
+- https://www.the-academy.nl/learn?course=az-900&student=5143  - voor tjvandort@hotmail.com
+
+- https://www.the-academy.nl/learn?course=az-900&student=5144  - voor rd6@live.nl
+
+- https://www.the-academy.nl/learn?course=az-900&student=5145  - voor ireneschuit91@proton.me
+
+- https://www.the-academy.nl/learn?course=az-900&student=5146  - voor nooahpanka@gmail.com
+
+- https://www.the-academy.nl/learn?course=az-900&student=5147  - voor rahulalibux@gmail.com
+
+- https://www.the-academy.nl/learn?course=az-900&student=5148  - voor t.d.schoolderman@gmail.com
+
+- https://www.the-academy.nl/learn?course=az-900&student=5149  - voor andwelejongloy@gmail.com
+
+
+
+
+
+Virsoft Instructor Notes - AZ-900 labs
+
+- To log on to the lab VM, use account Student and password Pa55w.rd
+
+ 
+
+- The following software is already installed in the lab VM:
+
+      * Azure PowerShell Az Module 1.2.1
+
+
+0111.nl/lms
+
+
+
+
+
+
+
+
+
